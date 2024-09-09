@@ -28,8 +28,8 @@ The "Amazon Clone" is a comprehensive replica of the Amazon web interface, devel
 
    <b>🧐 Technical Details : </b>
    
-  HTML: Structures the content, including headings, navigation menus, product sections, and interactive elements.<br>
-  CSS: Styles the page, focusing on layout, colors, typography, and responsive design.
+  HTML : Structures the content, including headings, navigation menus, product sections, and interactive elements.<br>
+  CSS : Styles the page, focusing on layout, colors, typography, and responsive design.
 
 <b>🎓 Learning Experience : </b><br>
 
