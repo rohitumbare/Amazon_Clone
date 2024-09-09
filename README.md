@@ -24,7 +24,7 @@ The "Amazon Clone" is a comprehensive replica of the Amazon web interface, devel
 
 <b>🛠 Technologies Used : </b><br>
 
-   HTML & CSS<br>
+   HTML, CSS & JavaScript<br>
 
    <b>🧐 Technical Details : </b>
    
